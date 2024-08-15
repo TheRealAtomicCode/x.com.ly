@@ -121,7 +121,7 @@
 		if (window.innerWidth >= 768 && window.innerWidth < 1200) {
 			hexagonCount.value = 1200; // Set to 1500 for medium devices
 		} else if (window.innerWidth >= 1200) {
-			hexagonCount.value = 1500; // Set to 2000 for large devices
+			hexagonCount.value = 1700; // Set to 2000 for large devices
 		}
 	})
   

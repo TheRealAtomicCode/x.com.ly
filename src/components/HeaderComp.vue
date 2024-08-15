@@ -12,6 +12,7 @@
 		' X.COM.LY  ',
 		' عبدالقادر ',
 		'   原子密码    ',
+		'Not Twitter',
 	];
 
 	const name = ref<string>('X.COM.LY   ');

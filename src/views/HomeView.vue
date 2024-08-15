@@ -13,7 +13,7 @@
 			<img
 				src="../assets/portraid.jpg"
 				alt="Portrait"
-				class="profile-image grayscale"
+				class="profile-image"
 			/>
 			<div class="text-content">
 				<h2 class="name">Fullstack Developer</h2>
@@ -115,7 +115,5 @@
 		}
 	}
 
-	.grayscale {
-		filter: grayscale(70%);
-	}
+
 </style>

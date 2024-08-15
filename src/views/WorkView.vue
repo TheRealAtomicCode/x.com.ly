@@ -10,17 +10,17 @@
 			</div>
 			<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a href="#">
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								Centralized User Management System
 							</h5>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							The user management system allows company administrators to manage
 							sites, departments, and user accounts. Administrators can create,
 							edit, and delete sites, departments, and employees. Each user is
@@ -58,17 +58,17 @@
 				</div>
 
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a href="#">
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								Customer Tracker
 							</h5>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							The customer tracking system allows customer service to manage
 							customer accounts, view details, and track interactions.
 							Representatives can access customer profiles, purchase history,
@@ -104,17 +104,17 @@
 				</div>
 
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a href="#">
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								Transaction Settilement
 							</h5>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							The settlement site reconciles payments, transactions, and banking
 							services against the company's internal records. Using algorithmic
 							optimizations, the site can rapidly process hundreds of thousands
@@ -156,19 +156,19 @@
 
 			<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a
 							href="https://github.com/TheRealAtomicCode/Depricated-DeviseHR-Server"
 						>
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								DeviseHR (work in progress)
 							</h5>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							The Backend for my (maybe startup... idk) SaaS project DeviseHR,
 							its a HR system designed to manage employees, calculate leave, and
 							manage clockins for verious companies. Note: this is an older
@@ -197,7 +197,7 @@
 						<div class="flex gap-2 mt-4">
 							<a
 								href="https://github.com/TheRealAtomicCode/Depricated-DeviseHR-Server"
-								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800"
 							>
 								<svg
 									aria-hidden="true"
@@ -217,18 +217,18 @@
 				</div>
 
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a href="https://github.com/TheRealAtomicCode/chat-express-2020">
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								Chat App
 							</h5>
 							<h4>Initial wait due to server sleep (free tier)</h4>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							An MVC Chat app written in Node.JS i wrote when learning web
 							sockets
 						</p>
@@ -258,7 +258,7 @@
 						<div class="mt-4 flex gap-2">
 							<a
 								href="https://github.com/TheRealAtomicCode/chat-express-2020"
-								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800"
 							>
 								<svg
 									aria-hidden="true"
@@ -275,7 +275,7 @@
 							</a>
 							<a
 								href="https://chat-express-2020.onrender.com"
-								class="inline-flex items-center rounded-lg bg-green-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+								class="inline-flex items-center rounded-lg bg-green-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 bg-green-600 hover:bg-green-700 focus:ring-green-800"
 							>
 								<svg
 									aria-hidden="true"
@@ -298,19 +298,19 @@
 				</div>
 
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a
 							href="https://github.com/TheRealAtomicCode/React-basics---memory-game---Game-of-Thrones"
 						>
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								Simple Memory game
 							</h5>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							A simple memory game I build when learning react hooks, buck when
 							hooks were kinda new, and used react
 						</p>
@@ -335,7 +335,7 @@
 						<div class="mt-4 flex gap-2">
 							<a
 								href="https://github.com/TheRealAtomicCode/React-basics---memory-game---Game-of-Thrones"
-								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800"
 							>
 								<svg
 									aria-hidden="true"
@@ -352,7 +352,7 @@
 							</a>
 							<a
 								href="https://66ba5eee5624611b61af0432--boisterous-maamoul-30481e.netlify.app/"
-								class="inline-flex items-center rounded-lg bg-green-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+								class="inline-flex items-center rounded-lg bg-green-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 bg-green-600 hover:bg-green-700 focus:ring-green-800"
 							>
 								<svg
 									aria-hidden="true"
@@ -375,17 +375,17 @@
 				</div>
 
 				<div
-					class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto"
+					class="max-w-sm border rounded-lg shadow bg-gray-800 border-gray-700 mx-auto"
 				>
 					<div class="p-5">
 						<a href="https://github.com/AQbaghi/task-manager-api-nodecourse">
 							<h5
-								class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+								class="mb-2 text-2xl font-bold tracking-tight text-white"
 							>
 								Task Manager API
 							</h5>
 						</a>
-						<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+						<p class="mb-3 font-normal text-gray-400">
 							A REST API built in Express and Mongoose, I built out of curiosity
 							to find out what NoSQL is about, ehh... MySQL is better for most
 							projects (most not all).
@@ -411,7 +411,7 @@
 						<div class="mt-4 flex gap-2">
 							<a
 								href="https://github.com/AQbaghi/task-manager-api-nodecourse"
-								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+								class="inline-flex items-center rounded-lg bg-blue-700 py-2 px-3 text-center text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 bg-blue-600 hover:bg-blue-700 focus:ring-blue-800"
 							>
 								<svg
 									aria-hidden="true"
